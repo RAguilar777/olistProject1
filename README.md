@@ -24,6 +24,3 @@ This project segments customers from the Brazilian E-Commerce Public Dataset by 
 
 ## License
 MIT License
-
-## Contact
-robertj.aguilarr7@gmail.com
